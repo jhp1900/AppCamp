@@ -1,4 +1,5 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
-    RegisterHotKeyDemo
+    ProjectDemo/RegHotKey_QuickApp \
+    ProjectDemo/ShortCut_Ctrl
